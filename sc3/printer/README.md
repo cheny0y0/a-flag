@@ -5,4 +5,4 @@ Scratch .sb3 文件 [下载](https://github.com/cheny0y0/a-flag/releases/downloa
 启动Scratch 3.0 Desktop。  
 下载此版本。  
 单击“文件”,然后单击“从计算机加载”,载入文件。  
-好的!单击绿色标志开始或清除。  
+好的!单击绿色标志开始或清除。
